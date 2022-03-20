@@ -1,0 +1,1 @@
+#Vue map picker plugin
